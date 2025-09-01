@@ -32,7 +32,7 @@ cloud:
     region:
       static: ap-northeast-2
     s3:
-      bucket: crongs-order
+      bucket: crong94.shop
 
 jwt:
   expirationAt: 1000
